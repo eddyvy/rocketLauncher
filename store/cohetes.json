@@ -1,0 +1,19 @@
+{
+    "cohetes": [
+        {
+            "cantidad": 0,
+            "cargaUtil": 1735,
+            "idTipo": "Minotaur IV"
+        },
+        {
+            "cantidad": 1,
+            "cargaUtil": 100000,
+            "idTipo": "SpaceX Starship"
+        },
+        {
+            "cantidad": 1,
+            "cargaUtil": 670,
+            "idTipo": "Falcon 1"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "peticiones": [
+        {
+            "descripcion": "Oxigeno",
+            "diaPeticion": 1,
+            "idPeticion": "p1O",
+            "lanzamientoAsignado": "Minotaur IV - lan1",
+            "maxDias": 10,
+            "peso": 500.0
+        },
+        {
+            "descripcion": "Comida sabrosa",
+            "diaPeticion": 1,
+            "idPeticion": "p2C",
+            "lanzamientoAsignado": "Minotaur IV - lan1",
+            "maxDias": 28,
+            "peso": 105.78
+        },
+        {
+            "descripcion": "Recursos",
+            "diaPeticion": 11,
+            "idPeticion": "p3R",
+            "lanzamientoAsignado": "sin asignar",
+            "maxDias": 12,
+            "peso": 40000.0
+        }
+    ]
+}

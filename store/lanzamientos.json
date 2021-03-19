@@ -1,0 +1,16 @@
+{
+    "lanzamientos": [
+        {
+            "diaLanzamiento": 1,
+            "diasTarda": 8,
+            "idLanzamiento": "Minotaur IV - lan1",
+            "idTipo": "Minotaur IV"
+        },
+        {
+            "diaLanzamiento": 11,
+            "diasTarda": 14,
+            "idLanzamiento": "Falcon 1 - lan1",
+            "idTipo": "Falcon 1"
+        }
+    ]
+}
